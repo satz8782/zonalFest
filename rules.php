@@ -1,11 +1,5 @@
 
 <?php
-/**
- * Created by PhpStorm.
- * User: mohit
- * Date: 11/9/16
- * Time: 1:35 AM
- */
 require 'dbConnect.php';
 ?>
 <!DOCTYPE html>
