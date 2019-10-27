@@ -106,9 +106,9 @@
 				}elseif($_SESSION['Login3']=='ADMIN'){
 				$_SESSION['Login2']=='Admin';
 			}
-			echo json_encode('valid');
+			echo json_encode('valid ');
 			}else{
-			echo json_encode('invalid');
+			echo json_encode('invalid ');
 		}
 		
 	}
